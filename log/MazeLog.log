@@ -1,0 +1,1725 @@
+2019-06-16 17:57:32 [JavaFX Application Thread] INFO  MyModel:69 - GenerateMaze client is started!
+2019-06-16 17:57:32 [JavaFX Application Thread] INFO  MyModel:70 - GenerateMaze's port is 5400
+2019-06-16 17:57:32 [JavaFX Application Thread] INFO  MyModel:82 - Maze's size: 10 X 10
+2019-06-16 17:57:32 [JavaFX Application Thread] INFO  MyModel:83 - Start position (0, 0) 
+2019-06-16 17:57:32 [JavaFX Application Thread] INFO  MyModel:84 - Goal position (9, 9) 
+2019-06-16 18:16:43 [JavaFX Application Thread] INFO  MyModel:69 - GenerateMaze client is started!
+2019-06-16 18:16:43 [JavaFX Application Thread] INFO  MyModel:70 - GenerateMaze's port is 5400
+2019-06-16 18:16:43 [JavaFX Application Thread] INFO  MyModel:82 - Maze's size: 10 X 10
+2019-06-16 18:16:43 [JavaFX Application Thread] INFO  MyModel:83 - Start position (0, 0) 
+2019-06-16 18:16:43 [JavaFX Application Thread] INFO  MyModel:84 - Goal position (9, 9) 
+2019-06-16 18:17:05 [JavaFX Application Thread] INFO  MyModel:69 - GenerateMaze client is started!
+2019-06-16 18:17:05 [JavaFX Application Thread] INFO  MyModel:70 - GenerateMaze's port is 5400
+2019-06-16 18:17:05 [JavaFX Application Thread] INFO  MyModel:82 - Maze's size: 10 X 10
+2019-06-16 18:17:05 [JavaFX Application Thread] INFO  MyModel:83 - Start position (0, 0) 
+2019-06-16 18:17:05 [JavaFX Application Thread] INFO  MyModel:84 - Goal position (9, 9) 
+2019-06-16 18:17:08 [JavaFX Application Thread] INFO  MyModel:106 - SolveMaze client is started!
+2019-06-16 18:17:08 [JavaFX Application Thread] INFO  MyModel:107 - SolveMaze's port is 5401
+2019-06-16 18:17:08 [JavaFX Application Thread] INFO  MyModel:117 - The solving algorithm is: algorithms.search.Solution@12056c4e
+2019-06-16 18:58:12 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 18:58:12 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 18:58:12 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 18:58:12 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 18:58:12 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 19:02:15 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 19:02:15 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 19:02:15 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 19:02:15 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 19:02:15 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 19:02:50 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 19:02:50 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 19:02:50 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 19:02:50 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 19:02:50 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 19:06:51 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 19:06:51 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 19:06:51 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 19:06:51 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 19:06:51 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 19:09:35 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 19:09:35 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 19:09:35 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 19:09:35 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 19:09:35 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 19:10:04 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 19:10:04 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 19:10:04 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 19:10:04 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 19:10:04 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 19:10:31 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 19:10:31 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 19:10:31 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 50 X 50
+2019-06-16 19:10:31 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 19:10:31 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (49, 49) 
+2019-06-16 19:12:31 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 19:12:31 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 19:12:31 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 100 X 100
+2019-06-16 19:12:31 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 19:12:31 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (99, 99) 
+2019-06-16 19:13:19 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 19:13:19 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 19:13:19 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 100 X 100
+2019-06-16 19:13:19 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 19:13:19 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (99, 99) 
+2019-06-16 19:21:40 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 19:21:40 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 19:21:40 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 100 X 100
+2019-06-16 19:21:40 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 19:21:40 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (99, 99) 
+2019-06-16 19:21:45 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 19:21:45 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 19:21:45 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 100 X 100
+2019-06-16 19:21:45 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 19:21:45 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (99, 99) 
+2019-06-16 19:22:46 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 19:22:46 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 19:22:46 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 100 X 100
+2019-06-16 19:22:46 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 19:22:46 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (99, 99) 
+2019-06-16 19:26:06 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 19:26:06 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 19:26:06 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 70 X 70
+2019-06-16 19:26:06 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 19:26:06 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (69, 69) 
+2019-06-16 19:33:30 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 19:33:30 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 19:33:30 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 70 X 70
+2019-06-16 19:33:30 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 19:33:30 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (69, 69) 
+2019-06-16 20:50:22 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 20:50:22 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 20:50:22 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 20:50:22 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 20:50:22 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 20:51:06 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 20:51:06 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 20:51:06 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 20:51:06 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 20:51:06 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:22:50 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:22:51 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:22:51 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:22:51 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:22:51 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:23:40 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:23:40 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:23:40 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 50 X 50
+2019-06-16 22:23:40 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:23:40 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (49, 49) 
+2019-06-16 22:23:46 [JavaFX Application Thread] INFO  MyModel:93 - SolveMaze client is started!
+2019-06-16 22:23:46 [JavaFX Application Thread] INFO  MyModel:94 - SolveMaze's port is 5401
+2019-06-16 22:23:46 [JavaFX Application Thread] INFO  MyModel:104 - The solving algorithm is: algorithms.search.Solution@194966db
+2019-06-16 22:24:05 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:24:05 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:24:05 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 30 X 30
+2019-06-16 22:24:05 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:24:05 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (29, 29) 
+2019-06-16 22:24:17 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:24:17 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:24:17 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 20 X 20
+2019-06-16 22:24:17 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:24:17 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (19, 19) 
+2019-06-16 22:24:50 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:24:50 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:24:50 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:24:50 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:24:50 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:28:07 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:28:07 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:28:07 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:28:07 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:28:07 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:28:30 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:28:30 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:28:30 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:28:30 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:28:30 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:28:37 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:28:37 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:28:37 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 50 X 50
+2019-06-16 22:28:37 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:28:37 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (49, 49) 
+2019-06-16 22:28:43 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:28:43 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:28:44 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 100 X 100
+2019-06-16 22:28:44 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:28:44 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (99, 99) 
+2019-06-16 22:29:05 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:05 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:05 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:05 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:05 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:09 [JavaFX Application Thread] INFO  MyModel:93 - SolveMaze client is started!
+2019-06-16 22:29:09 [JavaFX Application Thread] INFO  MyModel:94 - SolveMaze's port is 5401
+2019-06-16 22:29:09 [JavaFX Application Thread] INFO  MyModel:104 - The solving algorithm is: algorithms.search.Solution@7a643831
+2019-06-16 22:29:31 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:31 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:31 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:31 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:31 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:34 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:34 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:34 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:34 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:34 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:34 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:34 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:34 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:34 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:34 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:35 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:35 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:35 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:35 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:35 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:35 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:35 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:35 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:35 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:35 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:36 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:36 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:36 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:36 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:36 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:36 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:36 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:36 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:36 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:36 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:36 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:36 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:36 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:36 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:36 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:37 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:37 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:37 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:37 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:37 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:38 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:38 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:38 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:38 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:38 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:39 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:39 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:39 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:39 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:39 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:39 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:39 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:39 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:39 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:39 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:40 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:40 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:40 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:40 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:40 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:41 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:41 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:41 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:41 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:41 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:42 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:42 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:42 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:42 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:42 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:43 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:43 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:43 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:43 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:43 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:43 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:43 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:43 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:43 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:43 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:43 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:43 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:43 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:43 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:43 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:43 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:43 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:43 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:43 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:43 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:44 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:44 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:44 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:44 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:44 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:44 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:44 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:44 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:44 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:44 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:44 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:44 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:44 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:44 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:44 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:45 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:45 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:45 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:45 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:45 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:45 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:45 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:45 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-16 22:29:45 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:45 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-16 22:29:47 [JavaFX Application Thread] INFO  MyModel:93 - SolveMaze client is started!
+2019-06-16 22:29:47 [JavaFX Application Thread] INFO  MyModel:94 - SolveMaze's port is 5401
+2019-06-16 22:29:47 [JavaFX Application Thread] INFO  MyModel:104 - The solving algorithm is: algorithms.search.Solution@6b455bdd
+2019-06-16 22:29:52 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-16 22:29:52 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-16 22:29:52 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 50 X 50
+2019-06-16 22:29:52 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-16 22:29:52 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (49, 49) 
+2019-06-16 22:29:54 [JavaFX Application Thread] INFO  MyModel:93 - SolveMaze client is started!
+2019-06-16 22:29:54 [JavaFX Application Thread] INFO  MyModel:94 - SolveMaze's port is 5401
+2019-06-16 22:29:54 [JavaFX Application Thread] INFO  MyModel:104 - The solving algorithm is: algorithms.search.Solution@4bb4292f
+2019-06-17 15:40:41 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-17 15:40:41 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-17 15:40:41 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-17 15:40:41 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-17 15:40:41 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-17 15:40:50 [JavaFX Application Thread] INFO  MyModel:93 - SolveMaze client is started!
+2019-06-17 15:40:50 [JavaFX Application Thread] INFO  MyModel:94 - SolveMaze's port is 5401
+2019-06-17 15:40:50 [JavaFX Application Thread] INFO  MyModel:104 - The solving algorithm is: algorithms.search.Solution@291c9631
+2019-06-17 15:41:15 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-17 15:41:15 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-17 15:41:15 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-17 15:41:15 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-17 15:41:15 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-17 15:41:18 [JavaFX Application Thread] INFO  MyModel:93 - SolveMaze client is started!
+2019-06-17 15:41:18 [JavaFX Application Thread] INFO  MyModel:94 - SolveMaze's port is 5401
+2019-06-17 15:41:18 [JavaFX Application Thread] INFO  MyModel:104 - The solving algorithm is: algorithms.search.Solution@e95cfe7
+2019-06-17 17:14:53 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-17 17:14:53 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-17 17:14:53 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-17 17:14:53 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-17 17:14:53 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-17 17:30:21 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-17 17:30:21 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-17 17:30:21 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-17 17:30:21 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-17 17:30:21 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-17 17:41:00 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-17 17:41:00 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-17 17:41:00 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-17 17:41:00 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-17 17:41:00 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-17 17:46:41 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-17 17:46:41 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-17 17:46:41 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-17 17:46:41 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-17 17:46:41 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-17 17:58:58 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-17 17:58:58 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-17 17:58:58 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-17 17:58:58 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-17 17:58:58 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-17 17:59:10 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-17 17:59:10 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-17 17:59:10 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-17 17:59:10 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-17 17:59:10 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-17 17:59:53 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-17 17:59:53 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-17 17:59:53 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-17 17:59:53 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-17 17:59:53 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-17 18:00:01 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-17 18:00:01 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-17 18:00:01 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-17 18:00:01 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-17 18:00:01 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-17 18:00:15 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-17 18:00:15 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-17 18:00:15 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-17 18:00:15 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-17 18:00:15 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-17 18:00:36 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-17 18:00:36 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-17 18:00:36 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-17 18:00:36 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-17 18:00:36 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-17 18:00:44 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-17 18:00:44 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-17 18:00:44 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-17 18:00:44 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-17 18:00:44 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-17 18:04:01 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-17 18:04:01 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-17 18:04:01 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-17 18:04:01 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-17 18:04:01 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-17 18:04:06 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-17 18:04:06 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-17 18:04:06 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 5 X 5
+2019-06-17 18:04:06 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-17 18:04:06 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (4, 4) 
+2019-06-17 18:04:18 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-17 18:04:18 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-17 18:04:18 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 5 X 5
+2019-06-17 18:04:18 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-17 18:04:18 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (4, 4) 
+2019-06-17 18:04:23 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-17 18:04:23 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-17 18:04:23 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 5 X 5
+2019-06-17 18:04:23 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-17 18:04:23 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (4, 4) 
+2019-06-17 18:04:25 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-17 18:04:25 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-17 18:04:25 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 5 X 5
+2019-06-17 18:04:25 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-17 18:04:25 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (4, 4) 
+2019-06-17 18:04:34 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-17 18:04:34 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-17 18:04:34 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 5 X 5
+2019-06-17 18:04:34 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-17 18:04:34 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (4, 4) 
+2019-06-17 18:08:06 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-17 18:08:06 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-17 18:08:06 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-17 18:08:06 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-17 18:08:06 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-17 18:08:18 [JavaFX Application Thread] INFO  MyModel:56 - GenerateMaze client is started!
+2019-06-17 18:08:18 [JavaFX Application Thread] INFO  MyModel:57 - GenerateMaze's port is 5400
+2019-06-17 18:08:18 [JavaFX Application Thread] INFO  MyModel:69 - Maze's size: 10 X 10
+2019-06-17 18:08:18 [JavaFX Application Thread] INFO  MyModel:70 - Start position (0, 0) 
+2019-06-17 18:08:18 [JavaFX Application Thread] INFO  MyModel:71 - Goal position (9, 9) 
+2019-06-17 18:14:48 [JavaFX Application Thread] INFO  MyModel:51 - GenerateMaze client is started!
+2019-06-17 18:14:48 [JavaFX Application Thread] INFO  MyModel:52 - GenerateMaze's port is 5400
+2019-06-17 18:14:48 [JavaFX Application Thread] INFO  MyModel:64 - Maze's size: 10 X 10
+2019-06-17 18:14:48 [JavaFX Application Thread] INFO  MyModel:65 - Start position (0, 0) 
+2019-06-17 18:14:48 [JavaFX Application Thread] INFO  MyModel:66 - Goal position (9, 9) 
+2019-06-17 18:14:59 [JavaFX Application Thread] INFO  MyModel:51 - GenerateMaze client is started!
+2019-06-17 18:14:59 [JavaFX Application Thread] INFO  MyModel:52 - GenerateMaze's port is 5400
+2019-06-17 18:14:59 [JavaFX Application Thread] INFO  MyModel:64 - Maze's size: 10 X 10
+2019-06-17 18:14:59 [JavaFX Application Thread] INFO  MyModel:65 - Start position (0, 0) 
+2019-06-17 18:14:59 [JavaFX Application Thread] INFO  MyModel:66 - Goal position (9, 9) 
+2019-06-17 18:20:02 [JavaFX Application Thread] INFO  MyModel:52 - GenerateMaze client is started!
+2019-06-17 18:20:02 [JavaFX Application Thread] INFO  MyModel:53 - GenerateMaze's port is 5400
+2019-06-17 18:20:02 [JavaFX Application Thread] INFO  MyModel:65 - Maze's size: 10 X 10
+2019-06-17 18:20:02 [JavaFX Application Thread] INFO  MyModel:66 - Start position (0, 0) 
+2019-06-17 18:20:02 [JavaFX Application Thread] INFO  MyModel:67 - Goal position (9, 9) 
+2019-06-17 18:20:48 [JavaFX Application Thread] INFO  MyModel:52 - GenerateMaze client is started!
+2019-06-17 18:20:48 [JavaFX Application Thread] INFO  MyModel:53 - GenerateMaze's port is 5400
+2019-06-17 18:20:48 [JavaFX Application Thread] INFO  MyModel:65 - Maze's size: 10 X 10
+2019-06-17 18:20:48 [JavaFX Application Thread] INFO  MyModel:66 - Start position (0, 0) 
+2019-06-17 18:20:48 [JavaFX Application Thread] INFO  MyModel:67 - Goal position (9, 9) 
+2019-06-17 18:44:23 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 18:44:23 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 18:44:23 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 18:44:23 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 18:44:23 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 18:45:43 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 18:45:43 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 18:45:43 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 18:45:43 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 18:45:43 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:14:29 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:14:29 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:14:29 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:14:29 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:14:29 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:14:40 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:14:40 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:14:40 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:14:40 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:14:40 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:29:45 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:29:45 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:29:45 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:29:45 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:29:45 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:00 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:00 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:00 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:00 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:00 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:12 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:12 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:12 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:12 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:12 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:18 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:18 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:18 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:18 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:18 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:18 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:18 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:18 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:18 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:18 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:19 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:19 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:19 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:19 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:19 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:19 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:19 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:19 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:19 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:19 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:20 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:20 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:20 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:20 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:20 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:20 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:20 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:20 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:20 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:20 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:21 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:21 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:21 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:21 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:21 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:21 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:21 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:21 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:21 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:21 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:21 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:21 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:21 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:21 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:21 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:21 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:21 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:21 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:21 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:21 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:22 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:22 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:22 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:22 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:22 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:22 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:22 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:22 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:22 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:22 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:22 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:22 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:22 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:22 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:22 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:22 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:22 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:22 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:22 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:22 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:23 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:24 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:24 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:24 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:24 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:24 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:24 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:24 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:24 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:24 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:24 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:24 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:24 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:24 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:24 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:24 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:24 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:24 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:24 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:24 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:24 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:25 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:26 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:27 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:27 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:27 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:27 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:27 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:27 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:27 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:27 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:27 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:27 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:27 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:27 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:27 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:27 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:27 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:27 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:27 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:27 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:27 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:27 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:28 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 21:30:28 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 21:30:28 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@277b57bd
+2019-06-17 21:30:30 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:30 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:30 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:30 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:30 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:30:46 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:30:46 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:30:46 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:30:46 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:30:46 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:31:52 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:31:52 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:31:52 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:31:52 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:31:52 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:31:53 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 21:31:53 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 21:31:53 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@732a1a1e
+2019-06-17 21:36:25 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:36:25 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:36:25 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:36:25 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:36:25 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:36:27 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 21:36:27 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 21:36:27 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@27ff6581
+2019-06-17 21:37:38 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:37:38 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:37:38 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:37:38 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:37:38 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:37:39 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 21:37:39 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 21:37:39 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@732a1a1e
+2019-06-17 21:38:46 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:38:46 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:38:46 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:38:46 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:38:46 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:38:47 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 21:38:47 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 21:38:47 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@732a1a1e
+2019-06-17 21:39:07 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:39:07 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:39:07 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:39:07 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:39:07 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:39:08 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 21:39:08 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 21:39:08 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@3b3ce6c
+2019-06-17 21:39:27 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:39:27 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:39:27 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:39:27 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:39:27 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:43:05 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:43:05 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:43:05 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:43:05 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:43:05 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:43:07 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 21:43:07 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 21:43:07 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@5b5fa615
+2019-06-17 21:44:54 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:44:54 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:44:54 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:44:54 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:44:54 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:45:00 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:45:00 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:45:00 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 100 X 100
+2019-06-17 21:45:00 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:45:00 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (99, 99) 
+2019-06-17 21:45:02 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 21:45:02 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 21:45:02 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@6cf500bc
+2019-06-17 21:45:37 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:45:37 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:45:37 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 100 X 100
+2019-06-17 21:45:37 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:45:37 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (99, 99) 
+2019-06-17 21:45:38 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 21:45:38 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 21:45:38 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@b1df6a4
+2019-06-17 21:45:39 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:45:39 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:45:39 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 100 X 100
+2019-06-17 21:45:39 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:45:39 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (99, 99) 
+2019-06-17 21:45:40 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 21:45:40 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 21:45:40 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@2d57206f
+2019-06-17 21:45:41 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:45:41 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:45:41 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 100 X 100
+2019-06-17 21:45:41 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:45:41 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (99, 99) 
+2019-06-17 21:45:42 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 21:45:42 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 21:45:42 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@6a73d927
+2019-06-17 21:45:45 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:45:45 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:45:45 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 100 X 100
+2019-06-17 21:45:45 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:45:45 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (99, 99) 
+2019-06-17 21:45:46 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 21:45:46 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 21:45:46 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@777676b3
+2019-06-17 21:45:48 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:45:48 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:45:48 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 100 X 100
+2019-06-17 21:45:48 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:45:48 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (99, 99) 
+2019-06-17 21:45:49 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 21:45:49 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 21:45:49 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@34672ba4
+2019-06-17 21:46:50 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:46:50 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:46:50 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:46:50 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:46:50 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:46:52 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 21:46:52 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 21:46:52 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@3b3ce6c
+2019-06-17 21:49:51 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:49:51 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:49:51 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:49:51 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:49:51 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:49:53 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 21:49:53 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 21:49:53 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@3b3ce6c
+2019-06-17 21:53:54 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 21:53:54 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 21:53:54 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 21:53:54 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 21:53:54 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 21:53:55 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 21:53:55 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 21:53:55 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@732a1a1e
+2019-06-17 22:00:27 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:00:27 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:00:27 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:00:27 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:00:27 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:00:28 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 22:00:28 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 22:00:28 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@3b3ce6c
+2019-06-17 22:10:07 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:10:07 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:10:07 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:10:07 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:10:07 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:10:08 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 22:10:08 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 22:10:08 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@3b3ce6c
+2019-06-17 22:22:59 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:22:59 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:22:59 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:22:59 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:22:59 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:23:09 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 22:23:09 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 22:23:09 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@613c1fa5
+2019-06-17 22:23:19 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:23:19 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:23:19 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:23:19 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:23:19 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:23:28 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:23:28 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:23:28 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:23:28 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:23:28 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:23:29 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 22:23:29 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 22:23:29 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@67e8ea41
+2019-06-17 22:23:51 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:23:51 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:23:51 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:23:51 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:23:51 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:23:52 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:23:52 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:23:52 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:23:52 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:23:52 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:23:53 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:23:53 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:23:53 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:23:53 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:23:53 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:23:53 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:23:53 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:23:53 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:23:53 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:23:53 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:23:53 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:23:53 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:23:53 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:23:53 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:23:53 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:23:53 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:23:53 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:23:53 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:23:53 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:23:53 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:23:54 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:23:54 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:23:54 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:23:54 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:23:54 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:23:54 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:23:54 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:23:54 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:23:54 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:23:54 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:23:56 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:23:56 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:23:56 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:23:56 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:23:56 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:23:57 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:23:57 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:23:57 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:23:57 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:23:57 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:23:57 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:23:57 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:23:57 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:23:57 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:23:57 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:25:39 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:25:39 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:25:39 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:25:39 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:25:39 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:26:05 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:26:05 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:26:05 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:26:05 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:26:05 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:26:43 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:26:43 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:26:43 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:26:43 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:26:43 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:26:45 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 22:26:45 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 22:26:45 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@bcbd995
+2019-06-17 22:29:50 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:29:50 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:29:50 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:29:50 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:29:50 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:29:51 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 22:29:51 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 22:29:51 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@3953cef4
+2019-06-17 22:29:54 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:29:54 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:29:54 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:29:54 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:29:54 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:32:00 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:32:00 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:32:00 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:32:00 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:32:00 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:33:56 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:33:56 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:33:56 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:33:56 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:33:56 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:38:44 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:38:44 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:38:44 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:38:44 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:38:44 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:42:01 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:42:01 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:42:01 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:42:01 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:42:01 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:43:18 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:43:18 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:43:18 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:43:18 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:43:18 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:45:26 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:45:26 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:45:26 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:45:26 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:45:26 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:46:34 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:46:34 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:46:34 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:46:34 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:46:34 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:46:44 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 22:46:44 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 22:46:44 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@a5e1026
+2019-06-17 22:46:55 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:46:55 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:46:55 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:46:55 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:46:55 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:47:05 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:47:05 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:47:05 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 50 X 50
+2019-06-17 22:47:05 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:47:05 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (49, 49) 
+2019-06-17 22:47:10 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 22:47:10 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 22:47:10 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@6b08009a
+2019-06-17 22:47:32 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:47:32 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:47:32 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:47:32 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:47:32 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:47:46 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 22:47:46 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 22:47:46 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@70f104e2
+2019-06-17 22:48:33 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:48:33 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:48:33 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:48:33 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:48:33 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:48:46 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 22:48:46 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 22:48:46 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@6c0fd7d5
+2019-06-17 22:49:10 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:10 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:10 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:10 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:10 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:11 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:11 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:11 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:11 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:11 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:11 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:11 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:11 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:11 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:11 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:12 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:12 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:12 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:12 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:12 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:12 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:12 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:12 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:12 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:12 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:12 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:12 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:12 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:12 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:12 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:13 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:13 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:13 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:13 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:13 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:13 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:13 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:13 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:13 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:13 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:13 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:13 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:13 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:13 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:13 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:13 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:13 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:13 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:13 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:13 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:14 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:15 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:15 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:15 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:15 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:15 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:15 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:15 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:15 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:15 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:15 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:15 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:15 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:15 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:15 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:15 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:15 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:15 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:15 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:15 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:15 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:16 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:17 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:18 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:18 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:18 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:18 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:18 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:18 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:18 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:18 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:18 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:18 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:18 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:18 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:18 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:18 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:18 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:18 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:18 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:18 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:18 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:18 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:19 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:20 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:20 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:20 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:20 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:20 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:20 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:20 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:20 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:20 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:20 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:20 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:20 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:20 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:20 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:20 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:20 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:20 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:20 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:20 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:20 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:21 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:49:22 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:49:22 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:49:22 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:49:22 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:49:22 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:50:15 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:50:15 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:50:15 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 20
+2019-06-17 22:50:15 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:50:15 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 19) 
+2019-06-17 22:50:18 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 22:50:18 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 22:50:18 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@27df0e4b
+2019-06-17 22:50:23 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:50:23 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:50:23 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 30 X 20
+2019-06-17 22:50:23 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:50:23 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (29, 19) 
+2019-06-17 22:50:31 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:50:31 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:50:31 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 5 X 10
+2019-06-17 22:50:31 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:50:31 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (4, 9) 
+2019-06-17 22:50:58 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:50:58 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:50:58 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 5
+2019-06-17 22:50:58 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:50:58 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 4) 
+2019-06-17 22:51:12 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:51:12 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:51:12 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 20
+2019-06-17 22:51:12 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:51:12 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 19) 
+2019-06-17 22:51:47 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:51:47 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:51:47 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-17 22:51:47 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:51:47 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-17 22:51:53 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:51:53 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:51:53 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 15 X 20
+2019-06-17 22:51:53 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:51:53 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (14, 19) 
+2019-06-17 22:52:31 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:52:31 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:52:31 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 15 X 20
+2019-06-17 22:52:31 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:52:31 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (14, 19) 
+2019-06-17 22:52:33 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:52:33 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:52:33 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 15 X 20
+2019-06-17 22:52:33 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:52:33 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (14, 19) 
+2019-06-17 22:55:01 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:55:01 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:55:01 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 10
+2019-06-17 22:55:01 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:55:01 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 9) 
+2019-06-17 22:55:17 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:55:17 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:55:17 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 30 X 25
+2019-06-17 22:55:17 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:55:17 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (29, 24) 
+2019-06-17 22:55:21 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:55:21 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:55:21 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 30 X 10
+2019-06-17 22:55:21 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:55:21 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (29, 9) 
+2019-06-17 22:55:39 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:55:39 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:55:39 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 10
+2019-06-17 22:55:39 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:55:39 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 9) 
+2019-06-17 22:55:42 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:55:42 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:55:42 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 22:55:42 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:55:42 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 22:55:45 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:55:45 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:55:45 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 5 X 10
+2019-06-17 22:55:45 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:55:45 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (4, 9) 
+2019-06-17 22:56:17 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:56:17 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:56:17 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 5 X 5
+2019-06-17 22:56:17 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:56:17 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (4, 4) 
+2019-06-17 22:56:21 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:56:21 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:56:21 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 5 X 10
+2019-06-17 22:56:21 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:56:21 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (4, 9) 
+2019-06-17 22:56:23 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:56:23 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:56:23 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 5 X 10
+2019-06-17 22:56:23 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:56:23 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (4, 9) 
+2019-06-17 22:56:24 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:56:24 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:56:24 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 5 X 10
+2019-06-17 22:56:24 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:56:24 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (4, 9) 
+2019-06-17 22:56:26 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:56:26 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:56:26 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 5 X 20
+2019-06-17 22:56:26 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:56:26 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (4, 19) 
+2019-06-17 22:56:30 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:56:30 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:56:30 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 20
+2019-06-17 22:56:30 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:56:30 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 19) 
+2019-06-17 22:56:35 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 22:56:35 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 22:56:35 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@6c43b331
+2019-06-17 22:56:47 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:56:47 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:56:47 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 20
+2019-06-17 22:56:47 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:56:47 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 19) 
+2019-06-17 22:57:17 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:57:17 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:57:17 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 20
+2019-06-17 22:57:17 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:57:17 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 19) 
+2019-06-17 22:57:37 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:57:37 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:57:37 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 20
+2019-06-17 22:57:37 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:57:37 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 19) 
+2019-06-17 22:57:38 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 22:57:38 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 22:57:38 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@1f916fb0
+2019-06-17 22:57:48 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 22:57:48 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 22:57:48 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 20
+2019-06-17 22:57:48 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 22:57:48 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 19) 
+2019-06-17 23:04:59 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 23:04:59 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 23:04:59 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 23:04:59 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 23:04:59 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 23:05:00 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-17 23:05:00 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-17 23:05:00 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@3953cef4
+2019-06-17 23:06:28 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 23:06:28 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 23:06:28 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 23:06:28 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 23:06:28 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 23:06:53 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 23:06:53 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 23:06:53 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 23:06:53 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 23:06:53 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 23:12:55 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 23:12:55 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 23:12:55 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 23:12:55 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 23:12:55 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-17 23:19:13 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-17 23:19:13 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-17 23:19:13 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-17 23:19:13 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-17 23:19:13 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-18 11:11:01 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:11:01 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:11:02 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-18 11:11:02 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:11:02 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-18 11:11:07 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-18 11:11:07 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-18 11:11:07 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@a7a0c86
+2019-06-18 11:12:02 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:12:02 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:12:02 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-18 11:12:02 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:12:02 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-18 11:12:03 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-18 11:12:03 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-18 11:12:03 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@3953cef4
+2019-06-18 11:13:34 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:13:34 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:13:34 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-18 11:13:34 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:13:34 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-18 11:13:37 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-18 11:13:37 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-18 11:13:37 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@3953cef4
+2019-06-18 11:13:56 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:13:56 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:13:56 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-18 11:13:56 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:13:56 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-18 11:14:38 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-18 11:14:38 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-18 11:14:38 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@1350274b
+2019-06-18 11:31:01 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:31:01 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:31:01 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-18 11:31:01 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:31:01 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-18 11:32:53 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:32:53 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:32:53 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-18 11:32:53 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:32:53 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-18 11:33:47 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:33:47 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:33:47 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-18 11:33:47 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:33:47 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-18 11:33:47 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:33:47 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:33:47 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-18 11:33:47 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:33:47 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-18 11:33:48 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:33:48 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:33:48 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-18 11:33:48 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:33:48 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-18 11:33:48 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:33:48 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:33:48 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-18 11:33:48 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:33:48 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-18 11:33:49 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:33:49 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:33:49 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-18 11:33:49 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:33:49 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-18 11:33:50 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:33:50 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:33:50 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-18 11:33:50 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:33:50 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-18 11:33:51 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:33:51 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:33:51 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-06-18 11:33:51 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:33:51 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-06-18 11:33:59 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:33:59 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:33:59 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 50 X 50
+2019-06-18 11:33:59 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:33:59 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (49, 49) 
+2019-06-18 11:34:01 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:01 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:01 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 50 X 50
+2019-06-18 11:34:01 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:01 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (49, 49) 
+2019-06-18 11:34:01 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:01 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:01 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 50 X 50
+2019-06-18 11:34:01 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:01 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (49, 49) 
+2019-06-18 11:34:02 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:02 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:02 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 50 X 50
+2019-06-18 11:34:02 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:02 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (49, 49) 
+2019-06-18 11:34:02 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:02 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:02 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 50 X 50
+2019-06-18 11:34:02 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:02 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (49, 49) 
+2019-06-18 11:34:02 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:02 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:02 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 50 X 50
+2019-06-18 11:34:02 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:02 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (49, 49) 
+2019-06-18 11:34:03 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:03 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:03 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 50 X 50
+2019-06-18 11:34:03 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:03 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (49, 49) 
+2019-06-18 11:34:04 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:04 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:04 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 50 X 50
+2019-06-18 11:34:04 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:04 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (49, 49) 
+2019-06-18 11:34:04 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:04 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:04 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 50 X 50
+2019-06-18 11:34:04 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:04 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (49, 49) 
+2019-06-18 11:34:04 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:04 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:04 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 50 X 50
+2019-06-18 11:34:04 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:04 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (49, 49) 
+2019-06-18 11:34:05 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:05 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:05 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 50 X 50
+2019-06-18 11:34:05 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:05 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (49, 49) 
+2019-06-18 11:34:08 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:08 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:08 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 30 X 30
+2019-06-18 11:34:08 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:08 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (29, 29) 
+2019-06-18 11:34:09 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:09 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:09 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 30 X 30
+2019-06-18 11:34:09 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:09 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (29, 29) 
+2019-06-18 11:34:09 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:09 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:09 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 30 X 30
+2019-06-18 11:34:09 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:09 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (29, 29) 
+2019-06-18 11:34:10 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:10 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:10 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 30 X 30
+2019-06-18 11:34:10 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:10 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (29, 29) 
+2019-06-18 11:34:12 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:12 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:12 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 30 X 30
+2019-06-18 11:34:12 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:12 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (29, 29) 
+2019-06-18 11:34:13 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:13 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:13 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 30 X 30
+2019-06-18 11:34:13 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:13 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (29, 29) 
+2019-06-18 11:34:16 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:16 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:16 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:16 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:16 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:17 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:17 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:17 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:17 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:17 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:18 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:18 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:18 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:18 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:18 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:18 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:18 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:18 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:18 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:18 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:21 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:21 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:21 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:21 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:21 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:22 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:22 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:22 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:22 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:22 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:23 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:23 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:23 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:23 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:23 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:23 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:23 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:23 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:23 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:23 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:26 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:26 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:26 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:26 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:26 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:27 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:27 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:27 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:27 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:27 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:28 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:28 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:28 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:28 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:28 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:28 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:28 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:28 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:28 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:28 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:28 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:28 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:28 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:28 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:28 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:29 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:29 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:29 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:29 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:29 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:29 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:29 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:29 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:29 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:29 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:29 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:29 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:29 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:29 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:29 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:29 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:29 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:29 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:29 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:29 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:31 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-18 11:34:31 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-18 11:34:31 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@103cacdc
+2019-06-18 11:34:32 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:32 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:32 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:32 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:32 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:32 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-18 11:34:32 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-18 11:34:32 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@4c415d78
+2019-06-18 11:34:34 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:34 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:34 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:34 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:34 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:35 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-18 11:34:35 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-18 11:34:35 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@4181a98a
+2019-06-18 11:34:35 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:35 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:35 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:35 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:35 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:36 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-18 11:34:36 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-18 11:34:36 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@32dd7447
+2019-06-18 11:34:36 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:36 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:36 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:36 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:36 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:37 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-18 11:34:37 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-18 11:34:37 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@3e29f0f1
+2019-06-18 11:34:37 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:37 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:37 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:37 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:37 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:38 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-18 11:34:38 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-18 11:34:38 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@6facfd8b
+2019-06-18 11:34:38 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:38 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:38 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:38 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:38 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-06-18 11:34:39 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-06-18 11:34:39 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-06-18 11:34:39 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@f11e970
+2019-06-18 11:34:49 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-06-18 11:34:49 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-06-18 11:34:49 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 20 X 20
+2019-06-18 11:34:49 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-06-18 11:34:49 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (19, 19) 
+2019-11-10 11:10:42 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-11-10 11:10:42 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-11-10 11:10:42 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-11-10 11:10:42 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-11-10 11:10:42 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-11-10 11:11:29 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-11-10 11:11:29 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-11-10 11:11:29 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-11-10 11:11:29 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-11-10 11:11:29 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-11-10 11:11:30 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-11-10 11:11:30 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-11-10 11:11:30 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@22bc056a
+2019-11-10 13:02:11 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-11-10 13:02:11 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-11-10 13:02:11 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-11-10 13:02:11 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-11-10 13:02:11 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-12-07 10:51:30 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-12-07 10:51:30 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-12-07 10:51:30 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-12-07 10:51:30 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-12-07 10:51:30 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-12-07 10:51:44 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-12-07 10:51:44 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-12-07 10:51:44 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 40 X 10
+2019-12-07 10:51:44 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-12-07 10:51:44 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (39, 9) 
+2019-12-07 10:51:47 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-12-07 10:51:47 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-12-07 10:51:47 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 40 X 40
+2019-12-07 10:51:47 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-12-07 10:51:47 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (39, 39) 
+2019-12-07 10:51:52 [JavaFX Application Thread] INFO  MyModel:78 - SolveMaze client is started!
+2019-12-07 10:51:52 [JavaFX Application Thread] INFO  MyModel:79 - SolveMaze's port is 5401
+2019-12-07 10:51:52 [JavaFX Application Thread] INFO  MyModel:89 - The solving algorithm is: algorithms.search.Solution@60a96160
+2019-12-07 10:52:04 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-12-07 10:52:04 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-12-07 10:52:04 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 40 X 40
+2019-12-07 10:52:04 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-12-07 10:52:04 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (39, 39) 
+2019-12-07 11:50:51 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-12-07 11:50:51 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-12-07 11:50:51 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-12-07 11:50:51 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-12-07 11:50:51 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
+2019-12-07 11:51:11 [JavaFX Application Thread] INFO  MyModel:46 - GenerateMaze client is started!
+2019-12-07 11:51:11 [JavaFX Application Thread] INFO  MyModel:47 - GenerateMaze's port is 5400
+2019-12-07 11:51:11 [JavaFX Application Thread] INFO  MyModel:59 - Maze's size: 10 X 10
+2019-12-07 11:51:11 [JavaFX Application Thread] INFO  MyModel:60 - Start position (0, 0) 
+2019-12-07 11:51:11 [JavaFX Application Thread] INFO  MyModel:61 - Goal position (9, 9) 
